@@ -1,4 +1,5 @@
 # Docker support
+![Docker Image CI](https://github.com/raggadhub/fame/workflows/Docker%20Image%20CI/badge.svg)
 
 This is probably the quickest way to spawn a Fame dev instance.
 
