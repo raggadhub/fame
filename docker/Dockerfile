@@ -1,5 +1,5 @@
 
-FROM debian:stretch
+FROM debian:latest
 
 WORKDIR /opt
 
